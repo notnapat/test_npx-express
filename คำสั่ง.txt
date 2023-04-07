@@ -1,0 +1,3 @@
+เปิด vs code ขึ้นมารันแค่สั่งเดียว
+
+npx express-generator
